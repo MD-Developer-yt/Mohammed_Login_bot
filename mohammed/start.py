@@ -40,8 +40,8 @@ REACTIONS = [
 
 
 dev_text = "👨‍💻 Mind Behind This Bot:\n• @Mr_Mohammed_29\n•"
-expected_dev_hash = "b9e63b7578bdec13f3cb3162fe5f5e93dccaba3bfd5c8ddacbb90ffdcdcce402"
-channels_text = "📢 Official Channels:\n• @Anime_UpdatesAU\n\nStay updated for new features!"
+expected_dev_hash = "7d8f5d583048878a83071c5f267b059b"
+channels_text = "📢 Official Channels:\n• @Anime_UpdatesAU\n@Mr_Mohammed_29\n\nStay updated for new features!"
 expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
 
 if (
@@ -82,7 +82,7 @@ class script(object):
 """
     ABOUT_TXT = """<b>ℹ️ About This Bot</b>
 <blockquote><b>╭────[ 🧩 Technical Stack ]────⍟</b>
-<b>├⍟ 🤖 Bot Name : <a href=http://t.me/AU_Save_Restricted Content_bot>AU Saver Bot</a></b>
+<b>├⍟ 🤖 Bot Name : <a href=https://t.me/AU_Save_Restricted_Content_bot>AU Saver Bot</a></b>
 <b>├⍟ 👨‍💻 Developer : <a href=https://t.me/Mr_Mohammed_29>Mohammed</a></b>
 <b>├⍟ 📚 Library : <a href='https://docs.pyrogram.org/'>Pyrogram Async</a></b>
 <b>├⍟ 🐍 Language : <a href='https://www.python.org/'>Python 3.11+</a></b>
