@@ -17,11 +17,15 @@
 
 ---
 
+---
+
 🚀 Features
 📦 Core Features
 🔒 Save Restricted Content (channels/groups)
 📥 Batch Download (auto detect public/private)
 🔑 User Login System (/login)
+
+---
 
 ---
 
@@ -33,10 +37,13 @@
 
 ---
 
+---
 💎 Premium System
 👤 Free & Premium Users
 🔐 Admin Controlled Access
 📊 Plan Check (/myplan)
+
+---
 
 ---
 
@@ -53,6 +60,8 @@ Stores Users, Settings, Premium Data
 
 ---
 
+---
+
 ⚙️ Environment Variables
 BOT_TOKEN=
 API_ID=
@@ -66,11 +75,15 @@ KEEP_ALIVE=True
 
 ---
 
+---
+
 🚀 Deploy
 🔥 Deploy on Render
 https://render.com/⁠�
 🔥 Deploy on Heroku
 https://heroku.com/⁠�
+
+---
 
 ---
 
@@ -82,9 +95,13 @@ python bot.py
 
 ---
 
+---
+
 🐳 Docker
 docker build -t save-restricted-bot .
 docker run -d --env-file .env save-restricted-bot
+
+---
 
 ---
 
@@ -98,6 +115,8 @@ docker run -d --env-file .env save-restricted-bot
 /settings – Settings
 /myplan – Plan
 /premium – Premium info
+
+---
 
 ---
 
@@ -117,6 +136,8 @@ docker run -d --env-file .env save-restricted-bot
 
 ---
 
+---
+
 👑 Admin Commands
 /broadcast
 /ban
@@ -130,16 +151,21 @@ docker run -d --env-file .env save-restricted-bot
 
 ---
 
+---
+
 🌐 Support
 👨‍💻 Developer: @Mr_Mohammed_29
 🔗 GitHub: https://github.com/MD-Developer-yt⁠�
 
 ---
 
+---
 ⭐ Show Support
 ⭐ Star the repo
 🍴 Fork it
 📢 Share it
+
+---
 
 ---
 
@@ -149,6 +175,10 @@ Set: KEEP_ALIVE=True
 
 ---
 
+---
+
 ⚠️ Disclaimer
 This bot is for educational purposes only.
 Use responsibly.
+
+---
