@@ -1,7 +1,13 @@
-<h1 align="center">🚀 Save Restricted Bot</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7F1&width=435&lines=Welcome+To+MD+Developer+Yt+Github;It+is+Save+Restricted+Content+Bot;Bot+is+Made+By+Mohammed)](https://git.io/typing-svg)
+
+## 👀 Mohammed Login Bot Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=MD-Developer-yt&label=Mohammed%20Login%20Bot%20Views&color=blue&style=flat)
+
+<h1 align="center">🚀 Mohammed Login Bot</h1>
 
 <p align="center">
-  <img src="https://graph.org/file/7b0f0c8e5a1f9c9c0a6d1.jpg" width="100%">
+  <img src="https://graph.org/file/27dd5451f160ce28dadd4-8ca0a7d6480451adc8.jpg" width="100%">
 </p>
 
 <p align="center">
