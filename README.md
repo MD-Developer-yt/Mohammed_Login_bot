@@ -53,7 +53,7 @@ DB_URI=
 DB_NAME=SaveRestricted
 LOG_CHANNEL= should in -10098765432
 ERROR_MESSAGE=
-KEEP_ALIVE=True
+KEEP_ALIVE=True.
 
 🚀 Deploy
 🔥 Deploy on Render
