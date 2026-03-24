@@ -97,3 +97,133 @@ A simple Telegram bot to download restricted content and manage users.
 ---
 
 ## Local Setup
+
+<details open>
+<summary><b>Installation Steps</b></summary>
+
+### Clone the repository
+
+```bash
+git clone https://github.com/MD-Developer-yt/Mohammed_Login_bot.git⁠� cd SAVE-RESTRICT-BOT pip install -r requirements.txt python bot.py
+```
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the bot
+
+```bash
+python bot.py
+```
+
+</details>
+
+---
+
+
+## 🐳 Docker
+
+```bash
+docker build -t save-restricted-bot .
+docker run -d --env-file .env save-restricted-bot
+```
+
+---
+
+# 📝 Commands
+
+## 👤 User Commands
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+| Command     | Action                   |
+| ----------- | ------------------------ |
+| `/start`    | Start the bot            |
+| `/help`     | Get help information     |
+| `/login`    | Login to your account    |
+| `/logout`   | Logout from your account |
+| `/cancel`   | Cancel batch process     |
+| `/settings` | Open settings menu       |
+| `/myplan`   | Check your current plan  |
+| `/premium`  | View premium details     |
+
+### ⚙️ Customization
+
+- `/set_caption`
+- `/see_caption`
+- `/del_caption`
+- `/set_thumb`
+- `/view_thumb`
+- `/del_thumb`
+- `/thumb_mode`
+- `/set_del_word`
+- `/rem_del_word`
+- `/set_repl_word`
+- `/rem_repl_word`
+- `/setchat`
+
+</details>
+
+---
+
+## 👑 Admin Commands
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+- `/broadcast`
+- `/ban` / `/unban`
+- `/add_premium` / `/remove_premium`
+- `/users`
+- `/premium_users`
+- `/set_dump`
+- `/dblink`
+
+</details>
+
+---
+
+## Support
+
+- Developer: @Mr_Mohammed_29
+- Updates : @Anime_UpdatesAU
+- Support : @AU_Bot_Discussion 
+- GitHub: https://github.com/MD-Developer-yt  
+
+---
+
+## Note
+
+This bot is for educational purposes only. Use responsibly.
+
+# 🤝 Contributors
+
+<p align="center">
+  <a href="https://t.me/Mr_Mohammed_29">
+    <img src="https://img.shields.io/badge/Mohammed-Telegram-blue?style=for-the-badge&logo=telegram">
+  </a>
+  &nbsp;
+  <a href="https://github.com/MD-Developer-yt/">
+    <img src="https://img.shields.io/badge/MD-Develper-yt-GitHub-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
+
+# 📞 Support
+
+<p align="center">
+  <a href="https://t.me/AU_Bot_Discussion">
+    <img src="https://img.shields.io/badge/au-discussion %20Channel-blue?style=for-the-badge&logo=telegram">
+  </a>
+  <br><br>
+  <a href="https://t.me/Anime_UpdatesAU">
+    <img src="https://img.shields.io/badge/Updates-Channel-blue?style=for-the-badge&logo=telegram">
+  </a>
+</p>
+
+---
