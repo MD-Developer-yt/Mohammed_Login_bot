@@ -17,14 +17,83 @@
 
 ---
 
-⚡️ Features 
-Save restricted content (channels/groups) 
-Batch download support 
-User login system 
-Custom captions & thumbnails 
-Auto delete & replace words 
-Free & premium users system 
-Admin tools (ban, broadcast, etc.) 
-MongoDB database support
+# Save Restricted Bot
+
+A simple Telegram bot to download restricted content and manage users.
 
 ---
+
+<details open>
+<summary><b>📦 Core Features</b></summary>
+
+- Save restricted content (channels/groups)  
+- Batch download support  
+- User login system  
+- Custom captions & thumbnails  
+- Auto delete & replace words  
+- Free & premium users system  
+- Admin tools (ban, broadcast, etc.)  
+- MongoDB database support
+
+### ⚙️ Customization
+
+- Set custom captions (`/set_caption`)
+- Set custom thumbnails (`/set_thumb`)
+- Auto-delete or replace specific words
+
+### 💎 Premium System
+
+- Built-in system for free and premium users
+- Admin-controlled premium access
+
+### 👑 Admin Tools
+
+- Broadcast messages
+- Ban / Unban users
+- Manage premium status
+
+### 🧠 Persistent Storage
+
+- MongoDB-based user data and settings
+
+### ☁️ Keep Alive
+
+- Supports uptime services for Render / Heroku deployments
+
+</details>
+
+---
+
+---
+
+## Environment Variables
+
+<details>
+<summary><b>Click to Expand</b></summary>
+
+| Variable        | Description                                |
+| --------------- | ------------------------------------------ |
+| `BOT_TOKEN`     | Telegram Bot Token from BotFather          |
+| `API_ID`        | Telegram API ID                            |
+| `API_HASH`      | Telegram API Hash                          |
+| `ADMINS`        | Comma-separated Admin User IDs             |
+| `DB_URI`        | MongoDB Connection String                  |
+| `DB_NAME`       | Database Name (default: `SaveRestricted2`) |
+| `LOG_CHANNEL`   | Channel ID for logging users and errors    |
+| `ERROR_MESSAGE` | Send error messages to users               |
+| `KEEP_ALIVE`    | Use an uptime service like UptimeRobot     |
+
+</details>
+
+---
+
+---
+
+## Deploy
+
+- Render: https://render.com/  
+- Heroku: https://heroku.com/  
+
+---
+
+## Local Setup
