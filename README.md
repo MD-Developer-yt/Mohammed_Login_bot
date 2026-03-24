@@ -189,10 +189,12 @@ docker run -d --env-file .env save-restricted-bot
 
 ## Support
 
-- Developer: @Mr_Mohammed_29
-- Updates : @Anime_UpdatesAU
-- Support : @AU_Bot_Discussion 
-- GitHub: https://github.com/MD-Developer-yt  
+- 👨‍💻 Developer: [Mohammed](https://t.me/Mr_Mohammed_29)  
+- 💬 Support Group: [AU Bot Discusssion](https://t.me/AU_Bot_Discussion)
+- 📢 Updates Channel: [Updates](https://t.me/Anime_UpdatesAU)
+- 🔗 GitHub: [MD Developer Yt](https://github.com/MD-Developer-yt/)
+
+---
 
 ---
 
@@ -208,7 +210,7 @@ This bot is for educational purposes only. Use responsibly.
   </a>
   &nbsp;
   <a href="https://github.com/MD-Developer-yt/">
-    <img src="https://img.shields.io/badge/MD-Develper-yt-GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/MD-Developer-yt-GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
