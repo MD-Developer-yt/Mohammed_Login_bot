@@ -38,11 +38,10 @@ REACTIONS = [
     "😡"
 ]
 
+dev_text = "👨‍💻 Mind Behind This Bot:\n• @Mr_Mohammed_29\n• @Anime_UpdatesAU"
+dev_text = "👨‍💻 Developer: @Mr_Mohammed_29"
+channels_text = "📢 Channel: @Anime_UpdatesAU"
 
-dev_text = "👨‍💻 Mind Behind This Bot:\n• @Mr_Mohammed_29\n•"
-expected_dev_hash = "7d8f5d583048878a83071c5f267b059b"
-channels_text = "📢 Official Channels:\n• @Anime_UpdatesAU\n@Mr_Mohammed_29\n\nStay updated for new features!"
-expected_channels_hash = "e19212e571bd0f6626450dd790029d392c0748c554d4b386a0c0752f4148d37d"
 
 if (
     hashlib.sha256(dev_text.encode('utf-8')).hexdigest() != expected_dev_hash or
