@@ -17,13 +17,14 @@
 
 ---
 
-Features
-Save restricted content (channels/groups)
-Batch download support
-User login system
-Custom captions & thumbnails
-Auto delete & replace words
-Free & premium users system
-Admin tools (ban, broadcast, etc.)
+⚡️ Features 
+Save restricted content (channels/groups) 
+Batch download support 
+User login system 
+Custom captions & thumbnails 
+Auto delete & replace words 
+Free & premium users system 
+Admin tools (ban, broadcast, etc.) 
 MongoDB database support
+
 ---
