@@ -22,22 +22,27 @@
 🔒 Save Restricted Content (channels/groups)
 📥 Batch Download (auto detect public/private)
 🔑 User Login System (/login)
+
 ⚙️ Customization
 📝 Custom Captions (/set_caption)
 🖼 Custom Thumbnails (/set_thumb)
 🧹 Auto Delete Words
 🔁 Auto Replace Words
+
 💎 Premium System
 👤 Free & Premium Users
 🔐 Admin Controlled Access
 📊 Plan Check (/myplan)
+
 👑 Admin Tools
 📢 Broadcast (/broadcast)
 🚫 Ban / Unban Users
 💰 Manage Premium Users
 🧠 Database
+
 ⚡ MongoDB Storage
 Stores Users, Settings, Premium Data
+
 ⚙️ Environment Variables
 BOT_TOKEN=
 API_ID=
@@ -48,19 +53,23 @@ DB_NAME=SaveRestricted
 LOG_CHANNEL=
 ERROR_MESSAGE=
 KEEP_ALIVE=True
+
 🚀 Deploy
 🔥 Deploy on Render
 https://render.com/⁠�
 🔥 Deploy on Heroku
 https://heroku.com/⁠�
+
 💻 Local Setup
 git clone https://github.com/MD-Developer-yt/Mohammed_Login_bot.git⁠�
 cd SAVE-RESTRICT-BOT
 pip install -r requirements.txt
 python bot.py
+
 🐳 Docker
 docker build -t save-restricted-bot .
 docker run -d --env-file .env save-restricted-bot
+
 📝 Commands
 👤 User Commands
 /start – Start bot
@@ -71,6 +80,7 @@ docker run -d --env-file .env save-restricted-bot
 /settings – Settings
 /myplan – Plan
 /premium – Premium info
+
 ⚙️ Customization
 /set_caption
 /see_caption
@@ -84,6 +94,7 @@ docker run -d --env-file .env save-restricted-bot
 /set_repl_word
 /rem_repl_word
 /setchat
+
 👑 Admin Commands
 /broadcast
 /ban
@@ -94,16 +105,20 @@ docker run -d --env-file .env save-restricted-bot
 /premium_users
 /set_dump
 /dblink
+
 🌐 Support
 👨‍💻 Developer: @Mr_Mohammed_29
 🔗 GitHub: https://github.com/MD-Developer-yt⁠�
+
 ⭐ Show Support
 ⭐ Star the repo
 🍴 Fork it
 📢 Share it
+
 ⚡ Pro Tips
 Use Render + UptimeRobot for 24/7 uptime
 Set: KEEP_ALIVE=True
+
 ⚠️ Disclaimer
 This bot is for educational purposes only.
 Use responsibly.
