@@ -1,69 +1,97 @@
-🚀 Features
+# 🚀 Save Restricted Bot
 
-📦 Core Features
-Save Restricted Content — Download text, media, and files from restricted channels.
-Batch Mode — Bulk download messages from public or private channels with auto-detection.
-User Login — Login using /login to enable downloading capabilities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Telegram-Bot-blue?style=for-the-badge&logo=telegram">
+  <img src="https://img.shields.io/github/stars/MD-Developer-yt/Mohammed_Login_bot?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/MD-Developer-yt/Mohammed_Login_bot?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MD-Developer-yt/Mohammed_Login_bot?style=for-the-badge">
+</p>
 
-⚙️ Customization
-Set custom captions (/set_caption)
-Set custom thumbnails (/set_thumb)
-Auto-delete or replace specific words
+<p align="center">
+  🔥 Powerful Telegram Bot to Download Restricted Content & Manage Users 🚀
+</p>
 
-💎 Premium System
-Built-in system for free and premium users
-Admin-controlled premium access
+---
 
-👑 Admin Tools
-Broadcast messages
-Ban / Unban users
-Manage premium status
+## 🚀 Features
 
-🧠 Persistent Storage
-MongoDB-based user data and settings
+### 📦 Core Features
+- 🔒 Save Restricted Content (channels/groups)
+- 📥 Batch Download (auto detect public/private)
+- 🔑 User Login System (`/login`)
 
-⚙️ Environment Variables
+### ⚙️ Customization
+- 📝 Custom Captions (`/set_caption`)
+- 🖼 Custom Thumbnails (`/set_thumb`)
+- 🧹 Auto Delete Words
+- 🔁 Auto Replace Words
 
-Variable	        Description
-BOT_TOKEN	        Telegram Bot Token from BotFather
-API_ID	          Telegram API ID
-API_HASH	        Telegram API Hash
-ADMINS	          Comma-separated Admin User IDs
-DB_URI	          MongoDB Connection String
-DB_NAME	          Database Name (default: SaveRestricted)
-LOG_CHANNEL	      Channel ID for logging users and errors
-ERROR_MESSAGE	    Send error messages to users
-KEEP_ALIVE	      Use an uptime service like UptimeRobot
+### 💎 Premium System
+- 👤 Free & Premium Users
+- 🔐 Admin Controlled Access
+- 📊 Plan Check (`/myplan`)
 
-🛠 Deployment
+### 👑 Admin Tools
+- 📢 Broadcast (`/broadcast`)
+- 🚫 Ban / Unban Users
+- 💰 Manage Premium Users
 
-Render
-Heroku
+### 🧠 Database
+- ⚡ MongoDB Storage
+- Stores Users, Settings, Premium Data
 
+---
+
+## ⚙️ Environment Variables
+
+```env
+BOT_TOKEN= 
+API_ID=
+API_HASH=
+ADMINS=
+DB_URI=
+DB_NAME=SaveRestricted
+LOG_CHANNEL= should in -10098765432
+ERROR_MESSAGE=
+KEEP_ALIVE=True
+
+🚀 Deploy
+🔥 Deploy on Render
+https://render.com/⁠�
+🔥 Deploy on Heroku
+https://heroku.com/⁠�
 💻 Local Setup
-Installation Steps
-Clone the repository
+Bash
+Copy code
 git clone https://github.com/MD-Developer-yt/Mohammed_Login_bot.git
 cd SAVE-RESTRICT-BOT
-Install dependencies
 pip install -r requirements.txt
-Run the bot
 python bot.py
 🐳 Docker
+Bash
+Copy code
 docker build -t save-restricted-bot .
-docker run -d --env-file .env save-restricted bot
-
+docker run -d --env-file .env save-restricted-bot
 📝 Commands
-
-Command	Action
-/start	Start the bot
-/help	Get help information
-/login	Login to your account
-/logout	Logout from your account
-/cancel	Cancel batch process
-/settings	Open settings menu
-/myplan	Check your current plan
-/premium	View premium details
+👤 User Commands
+Command
+Action
+/start
+Start bot
+/help
+Help
+/login
+Login
+/logout
+Logout
+/cancel
+Cancel batch
+/settings
+Settings
+/myplan
+Plan
+/premium
+Premium info
 ⚙️ Customization
 /set_caption
 /see_caption
@@ -78,11 +106,26 @@ Command	Action
 /rem_repl_word
 /setchat
 👑 Admin Commands
-Click to Expand
 /broadcast
-/ban / /unban
-/add_premium / /remove_premium
+/ban
+/unban
+/add_premium
+/remove_premium
 /users
 /premium_users
 /set_dump
 /dblink
+🌐 Support
+👨‍💻 Developer: @Mr_Mohammed_29
+🔗 GitHub: https://github.com/MD-Developer-yt⁠�
+⭐ Show Support
+If you like this project:
+⭐ Star the repo
+🍴 Fork it
+📢 Share it
+⚡ Pro Tips
+Use Render + UptimeRobot for 24/7 uptime
+Set: KEEP_ALIVE=True
+⚠️ Disclaimer
+This bot is for educational purposes only.
+Use responsibly.
