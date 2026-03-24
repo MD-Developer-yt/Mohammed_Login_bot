@@ -95,12 +95,23 @@ A simple Telegram bot to download restricted content and manage users.
 
 ---
 
-## Deploy
+<details>
+<summary><h3>
+- <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
+</h3></summary>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
-- Render: https://render.com/  
-- Heroku: https://heroku.com/  
-
----
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Codeflix-Bots/ProRenameBot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
+</a></p>
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
+</h3>
+<p align="center"><a href="https://render.com/deploy?repo=https://github.com/Codeflix-Bots/ProRenameBot">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a></p>
 
 ## Local Setup
 
